@@ -137,3 +137,7 @@ this的用法：
 9.jQuery内部实现，用了很多匿名callback函数，this默认都为window,不太有用，因此用了call方法把this换成有用的对象。
 10. 当使用eval执行javascript代码时，this是eval调用者
 
+
+git remote set-url origin git@github.com:AlunYou/learning.git
+解决git push 403错误
+
